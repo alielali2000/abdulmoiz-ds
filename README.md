@@ -1,4 +1,4 @@
-[![MasterHead](https://www.indiumsoftware.com/wp-content/uploads/2023/07/Data-Analytics-Main-Banner.jpg)](https://medium.com/@abdulmoizofficial0)
+[![MasterHead](https://hgs.cx/wp-content/uploads/2023/07/blog-banner-benefits-of-data-engineering.webp)](https://medium.com/@abdulmoizofficial0)
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
 <h3 align="center">A passionate Data Engineer from Pakistan</h3>
 
